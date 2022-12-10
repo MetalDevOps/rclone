@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "rclone-for-me"
+name = "rclone"
 version = "0.0.1"
 description = "Python wrapper for rclone"
 authors = ["Alyetama <56323389+Alyetama@users.noreply.github.com>"]
